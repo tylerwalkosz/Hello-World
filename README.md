@@ -10,7 +10,7 @@ My first practice repository
 -[Additional Information](#additional-information)
 
 ### Project Title
-**Hello World Repository**
+**Hello World Repository** | My first Repository |
 
 ## Description
 **This repository is my _first_ GitHub project.** It shows that I can create a repository, write a README in Markdown, and upload files that showcase my skills
