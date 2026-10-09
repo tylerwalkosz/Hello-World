@@ -22,6 +22,9 @@ This repository is my first GitHub project. It shows that I can create a reposit
 -Images
 
 ### Files Used
+| `README.md` |
+| `Copy of Job Tracking.xlsx` |
+| `Engineering Welcome Fair(1).png` |
 
 ### How to Run Program
 Open the repository on GitHub. Click a file in the list above. Click download or view it in the browser. Open it with the correct program
