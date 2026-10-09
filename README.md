@@ -10,16 +10,16 @@ My first practice repository
 -[Additional Information](#additional-information)
 
 ### Project Title
-Hello World Repository
+**Hello World Repository**
 
 ## Description
-This repository is my first GitHub project. It shows that I can create a repository, write a README in Markdown, and upload files that showcase my skills
+**This repository is my _first_ GitHub project.** It shows that I can create a repository, write a README in Markdown, and upload files that showcase my skills
 
 ### Tools Used
 -GitHub
 -Markdown
--Microsoft word
--Images
+-png
+-Microsoft Excel
 
 ### Files Used
 | `README.md` |
@@ -27,7 +27,7 @@ This repository is my first GitHub project. It shows that I can create a reposit
 | `Engineering Welcome Fair(1).png` |
 
 ### How to Run Program
-Open the repository on GitHub. Click a file in the list above. Click download or view it in the browser. Open it with the correct program
+*Open the repository on GitHub. Click a file in the list above. Click download or view it in the browser. Open it with the correct program*
 
 #### Additional Information
-- Created by Tyler Walkosz at the University of Iowa 
+ <ins>Created by Tyler Walkosz at the University of Iowa</ins>
